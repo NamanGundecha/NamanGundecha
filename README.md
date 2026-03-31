@@ -12,16 +12,6 @@ Over the next four years, I aim to strengthen my problem‑solving skills, contr
 
 ---
 
-## 🐍 Contribution Snake
-
-Watch a snake eat my GitHub contributions over time!  
-This visualization updates automatically based on my recent activity on GitHub.
-
-![GitHub Contribution Snake](https://github.com/NamanGundecha/NamanGundecha/blob/output/github-contribution-grid-snake.svg)
-
-*(To enable this, a GitHub Actions workflow runs nightly to generate the snake SVG and commit it to an `output` branch, which is then linked from this README.)*
-
----
 
 ## 📊 Activities & Platforms
 - **GitHub**: For coding, personal projects, and lab work  
