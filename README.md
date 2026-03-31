@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋 I'm Naman Gundecha
 
-<!--
-**NamanGundecha/NamanGundecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science and Engineering (CSE)** student at **[Your College Name]** enrolled from **2025–2029**.  
 
-Here are some ideas to get you started:
+I'm passionate about:
+- Learning programming, data structures, and algorithms  
+- Building small projects and solving real‑world problems  
+- Exploring data science and machine learning concepts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I hope to learn  
+Over the next few years, I aim to improve my coding skills, contribute to open‑source projects, and build a strong portfolio of applications and experiments that reflect my growth as a CSE student.
+
+---
+
+📫 You can reach me at:  
+[LinkedIn](https://www.linkedin.com/in/your‑linkedin‑handle)  
+[Email](mailto:youremail@example.com)  
+
+🛠️ Tools & languages I use:  
+`Python` `C++` `HTML/CSS` `Git` `GitHub` `Kaggle`
